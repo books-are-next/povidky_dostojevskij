@@ -1,0 +1,56 @@
+---
+title: ""
+---
+
+6  
+(Ivan Petrovič Petru Ivanyči)
+
+14\.
+listopadu
+
+Velevážený pane, Petře Ivanyči!
+
+Čekal jsem tři dny a snažil jsem se je účelně využít.
+Jsem si vědom toho, že zdvořilost a slušnost jsou hlavní ozdoby každého člověka, a proto jsem se Vám od svého posledního dopisu z desátého tohoto měsíce nepřipomínal ani slůvkem, ani žádnou akcí.
+Částečně proto, abych Vám umožnil bez překážek splnit křesťanskou povinnost vůči Vaší tetičce, a částečně i proto, že některé informace a závěry ve známé záležitosti si vyžádaly určitý čas.
+Teď spěchám, abych si s Vámi všechno definitivně a rozhodně vyjasnil...
+
+Přiznávám, když jsem četl Vaše první dva dopisy, vážně jsem si myslel, že nechápete, co chci, a proto jsem hledal příležitost, abych se s Vámi sešel a abychom si všechno vysvětlili mezi čtyřma očima.
+Strachoval jsem se svěřit vše papíru a obával jsem se, že písemně nevyložím svoje myšlenky dostatečně jasně.
+Je Vám známo, že postrádám dobré vzdělání i způsoby a vyhýbám se jalovému hejskovství, neboť jsem poznal, jak klamný může být zevnějšek člověka a že pod květy se někdy skrývá jedovatý had.
+Vy jste mě chápal, ale neodpovídal jste mi tak, jak se patří, rozhodnut v hloubi své věrolomné duše porušit svoje čestné slovo a ukončit naše přátelské vztahy.
+Plně jste to zpečetil v poslední době svým odporným chováním vůči mně, zhoubným pro moje zájmy, což jsem nečekal a čemu jsem do poslední chvíle odmítal věřit.
+Zaujat na počátku naší známosti Vašimi způsoby, taktním chováním, znalostí věcí i výhodami, které by mně vyplynuly ze styku s Vámi, předpokládal jsem, že jsem nalezl pravého přítele, druha a příznivce.
+Nyní jsem jasně pochopil, že mnozí lidé skrývají pod lichotivým, skvělým zevnějškem ve svém srdci jed, používají svůj rozum na spřádání intrik proti bližním a na nepřípustnou zradu, a tudíž se obávají pera a papíru a současně využívají svůj styl nikoliv ve prospěch bližních a vlasti, nýbrž k uspání a ošálení rozumu těch, kdo s nimi jednají o různých záležitostech a podmínkách.
+Vaše věrolomnost vůči mně zřetelně vysvítá z následujících faktů, vážený.
+
+Za prvé, když jsem Vám ve svém dopise jasně a srozumitelně vysvětlil, v jaké jsem situaci, a zároveň jsem se Vás ve svém prvním dopise tázal, co rozumíte některými výrazy a narážkami na Jevgenije Nikolajeviče, pokoušel jste se většinou všechno zamlčet a potom, co jste mě rozhořčil svými podezřeními a pochybnostmi, klidně jste z oné záležitosti vycouval.
+Později, když jste mi provedl takové věci, které se nedají označit slušnými slovy, jste mi napsal, že se hněváte.
+Jak tomu mám rozumět, vážený? Poté co mi byla drahá každá minuta a Vy jste mě nutil pronásledovat Vás po celém hlavním městě, psal jste mi pod rouškou přátelství další dopisy, v nichž jste onu známou záležitost úmyslně zamlčel a rozepisoval jste se o úplně vedlejších věcech, a sice o nemocech Vaší ženy, které si přesto v každém případě vážím, dále o tom, že Vašemu maličkému předepsali rebarboru a jemu se při té příležitosti prořezal zoubek.
+To vše jste mi v každém svém listě připomínal s odpornou, urážlivou pravidelností.
+Ano, ochotně uznávám, že utrpení vlastního dítěte zraňuje otcovské srdce, ale k čemu je dobré připomínat to ve chvíli, kdy je žádoucnější a zajímavější psát o něčem jiném? Mlčky jsem to snášel, ale teď, po určité době, pokládám za svou povinnost žádat vysvětlení.
+A konečně, několikrát jste mě věrolomně oklamal tím, že jste mi naznačoval pomyslné schůzky, a tak jste mě přinutil hrát zřejmě roli hlupáka a šaška, kterou jsem nikdy nemínil hrát.
+Posléze jste mě pozval k sobě a zase jste mě patřičně oklamal a teď mi oznamujete, že jste byl odvolán k trpící tetičce, kterou postihl přesně v pět hodin záchvat mrtvice – ano, tak jste to s nestoudnou přesností vysvětloval.
+Naštěstí, vážený, jsem v posledních třech dnech shromáždil veškeré informace a zjistil jsem, že Vaši tetičku stihl záchvat již sedmého tohoto měsíce, krátce před půlnocí.
+Z toho případu vidím, že jste zneužil posvátných příbuzenských svazků k oklamání nezúčastněných.
+A konečně, ve svém posledním dopise se zmiňujete o smrti Vaší příbuzné, k níž údajně došlo právě tehdy, kdy jsem se měl dostavit k Vám, abychom se poradili o známých záležitostech.
+Tady Vaše odporné propočty a výmysly přesahují veškeré meze, neboť podle hodnověrných informací, kterých jsem se díky šťastné náhodě včas dopátral, jsem zjistil, že Vaše tetička zemřela přesně o čtyřiadvacet hodin později, než jste ve svém dopise bezbožně označil.
+Mohl bych pokračovat do nekonečna ve výčtu všech příznaků, dosvědčujících Vaši věrolomnost vůči mně, ale to, co jsem uvedl, je dostačující dokonce i pro nestranného pozorovatele.
+V každém svém dopisu mě nazýváte svým upřímným přítelem a jinými lichotivými jmény, ale to všechno podle mého mínění děláte jen proto, abyste ukolébal moje svědomí.
+
+Nyní docházím k Vaší hlavní zradě a věrolomnosti vůči mně, a to k neustálému zamlčování všeho, co se týče našeho společného zájmu, což se děje v poslední době, dále k bezbožné loupeži dopisu, kde jste vysvětlil, třebaže nejasně a ne zcela srozumitelně, naše oboustranné podmínky a dohody, dále k barbarské, vynucené půjčce tří set padesáti rublů ve stříbře bez potvrzení, údajně vyplývající z mého podílnictví, a konečně k hnusné pomluvě našeho společného známého Jevgenije Nikolajeviče.
+Teď jasně shledávám, že jste mi chtěl dokázat, že si na něm nic nevezmete – jak se s dovolením říká: kde nic není, ani smrt nebere – a že on sám není ani ryba, ani rak, což mu vyčítáte ve svém dopise z šestého tohoto měsíce.
+Já znám Jevgenije Nikolajeviče jako skromného, dobře vychovaného mladíka, čímž může leckomu zalichotit a zalíbit se i vysloužit si úctu ve společnosti.
+Rovněž je mi známo, že jste večer co večer celých čtrnáct dní obehrával Jevgenije Nikolajeviče v kartách a shrábl jste pár desítek a někdy i stovek ve stříbře.
+Nyní to všechno popíráte a nejenže mi nehodláte poděkovat za moji snahu, ale dokonce si nenávratně přisvojujete moje peníze, když jste mě předtím zlákal návrhem na podílnictví a oklamal jste mě slibem různých výhod.
+Dnes, kdy jste si zcela nezákonně přivlastnil moje peníze i peníze Jevgenije Nikolajeviče, nehodláte se mi odvděčit a využíváte k tomu účelu pomluvu, nesmyslně očerňující v mých očích toho, koho jsem díky svému úsilí a snaze uvedl do Vašeho domu.
+Vy sám, jak dosvědčují přátelé, se do dneška div s ním neobjímáte a vydáváte ho ve společnosti za svého nejlepšího přítele nehledě na to, že v celém světě neexistuje takový hlupák, který by se hned nedovtípil, kam míříte všemi svými záměry a jaké vlastně ve skutečnosti jsou Vaše přátelské, kamarádské vztahy.
+Já tvrdím, že nejsou nic jiného než klam, věrolomnost, opomenutí všech lidských práv a slušnosti, že jsou odporné Bohu a všestranně amorální.
+Já sám jsem toho příkladem i důkazem.
+Čím jsem Vás urazil a proč jste se mnou tak nekřesťansky jednal?
+
+Tolik na vysvětlenou.
+Tím končím. Závěr je následující, vážený pane: jestliže mi v co nejkratší době po obdržení tohoto listu nevrátíte za prvé celý obnos, který jste ode mě obdržel, to jest tři sta padesát rublů ve stříbře, a za druhé všechny další sumy, jak jste slíbil, uchýlím se k všemožným prostředkům, třeba i s použitím síly, abych Vás přiměl k navrácení těch peněz, a taktéž k dodržování zákonů.
+Nakonec Vám oznamuji, že mám k dispozici určitá svědectví, která u sebe chovám jakožto Váš nejoddanější sluha a ctitel a která mohou poškodit a očernit Vaše jméno před celou společností.
+
+Dovoluji si zůstat atd.
