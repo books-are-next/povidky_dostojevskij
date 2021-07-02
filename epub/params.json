@@ -5,8 +5,8 @@
       "identifier": "urn:uuid:b3ab9d83-872d-4fc3-963a-a5ac6ef73e91",
       "author": "Fjodor Michajlovič Dostojevskij",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-06-29T08:44:39.180Z",
-      "isbn": " 978‑80‑7602‑467‑0"
+      "modified": "2021-06-29T18:09:16.423Z",
+      "isbn": "978‑80‑7602‑467‑0"
     },
     "elements": {
       "title": "",
@@ -29,7 +29,7 @@
         "xhtml": "povidky_001.xhtml",
         "title": "",
         "id": 0,
-        "role": "cover",
+        "role": "chapter",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -181,16 +181,15 @@
           {
             "filename": "povidky_016.md",
             "xhtml": "povidky_016.xhtml",
-            "title": "Vánoční strom a svatba",
+            "title": "",
             "id": 15,
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": [],
-            "subtitle": "Ze zápisníku neznámého"
+            "children": []
           }
         ],
-        "subtitle": "Ze zápisníku neznámého"
+        "subtitle": "(Ze zápisníku neznámého)"
       },
       {
         "filename": "povidky_017.md",
@@ -204,11 +203,11 @@
           {
             "filename": "povidky_018.md",
             "xhtml": "povidky_018.xhtml",
-            "title": "Slabé srdce",
+            "title": "",
             "id": 17,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           }
         ]
@@ -225,7 +224,7 @@
           {
             "filename": "povidky_020.md",
             "xhtml": "povidky_020.xhtml",
-            "title": "Poctivý zloděj",
+            "title": "",
             "id": 19,
             "role": "chapter",
             "numberedChildren": false,
@@ -246,7 +245,7 @@
           {
             "filename": "povidky_022.md",
             "xhtml": "povidky_022.xhtml",
-            "title": "Pan Probaštin",
+            "title": "",
             "id": 21,
             "role": "chapter",
             "numberedChildren": false,
@@ -267,7 +266,7 @@
           {
             "filename": "povidky_024.md",
             "xhtml": "povidky_024.xhtml",
-            "title": "Plazunkov",
+            "title": "",
             "id": 23,
             "role": "chapter",
             "numberedChildren": false,
@@ -288,7 +287,7 @@
           {
             "filename": "povidky_026.md",
             "xhtml": "povidky_026.xhtml",
-            "title": "1 (Petr Ivanyč Ivanu Petroviči)",
+            "title": "1(Petr Ivanyč Ivanu Petroviči)",
             "id": 25,
             "role": "chapter",
             "numberedChildren": false,
@@ -298,7 +297,7 @@
           {
             "filename": "povidky_027.md",
             "xhtml": "povidky_027.xhtml",
-            "title": "2 (Ivan Petrovič Petru Ivanyči)",
+            "title": "2(Ivan Petrovič Petru Ivanyči)",
             "id": 26,
             "role": "chapter",
             "numberedChildren": false,
@@ -308,7 +307,7 @@
           {
             "filename": "povidky_028.md",
             "xhtml": "povidky_028.xhtml",
-            "title": "3 (Petr Ivanyč Ivanu Petroviči)",
+            "title": "3(Petr Ivanyč Ivanu Petroviči)",
             "id": 27,
             "role": "chapter",
             "numberedChildren": false,
@@ -318,7 +317,7 @@
           {
             "filename": "povidky_029.md",
             "xhtml": "povidky_029.xhtml",
-            "title": "4 (Ivan Petrovič Petru Ivanyči)",
+            "title": "4(Ivan Petrovič Petru Ivanyči)",
             "id": 28,
             "role": "chapter",
             "numberedChildren": false,
@@ -328,7 +327,7 @@
           {
             "filename": "povidky_030.md",
             "xhtml": "povidky_030.xhtml",
-            "title": "5 (Petr Ivanyč Ivanu Petroviči)",
+            "title": "5(Petr Ivanyč Ivanu Petroviči)",
             "id": 29,
             "role": "chapter",
             "numberedChildren": false,
@@ -338,7 +337,7 @@
           {
             "filename": "povidky_031.md",
             "xhtml": "povidky_031.xhtml",
-            "title": "6 (Ivan Petrovič Petru Ivanyči)",
+            "title": "6(Ivan Petrovič Petru Ivanyči)",
             "id": 30,
             "role": "chapter",
             "numberedChildren": false,
@@ -348,7 +347,7 @@
           {
             "filename": "povidky_032.md",
             "xhtml": "povidky_032.xhtml",
-            "title": "7 (Petr Ivanyč Ivanu Petroviči)",
+            "title": "7(Petr Ivanyč Ivanu Petroviči)",
             "id": 31,
             "role": "chapter",
             "numberedChildren": false,
@@ -389,9 +388,9 @@
           {
             "filename": "povidky_036.md",
             "xhtml": "povidky_036.xhtml",
-            "title": "Pravdivé vyprávění o tom, jak jeden pán určitého věku a zevnějšku byl celý, beze zbytku, zaživa pozřen krokodýlem z Pasáže a co z toho vzešlo.",
+            "title": "",
             "id": 35,
-            "role": "cover",
+            "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
             "children": []
@@ -450,11 +449,11 @@
           {
             "filename": "povidky_042.md",
             "xhtml": "povidky_042.xhtml",
-            "title": "Zápisky pana X.",
+            "title": "",
             "id": 41,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           }
         ]
@@ -471,11 +470,11 @@
           {
             "filename": "povidky_044.md",
             "xhtml": "povidky_044.xhtml",
-            "title": "Chlapec u Kristova vánočního stromu",
+            "title": "",
             "id": 43,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           }
         ]
@@ -492,15 +491,15 @@
           {
             "filename": "povidky_046.md",
             "xhtml": "povidky_046.xhtml",
-            "title": "Mužik Marej",
+            "title": "",
             "id": 45,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           }
         ],
-        "subtitle": "Ze spisovatelova deníku"
+        "subtitle": "(Ze spisovatelova deníku)"
       },
       {
         "filename": "povidky_047.md",
@@ -518,7 +517,7 @@
             "id": 47,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -528,7 +527,7 @@
             "id": 48,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -538,7 +537,7 @@
             "id": 49,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -548,7 +547,7 @@
             "id": 50,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -558,7 +557,7 @@
             "id": 51,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           }
         ],
@@ -567,11 +566,11 @@
       {
         "filename": "povidky_053.md",
         "xhtml": "povidky_053.xhtml",
-        "title": "Fjodor Michajlovič Dostojevskij Povídky",
+        "title": "",
         "id": 52,
         "role": "colophon",
         "numberedChildren": false,
-        "inToc": false,
+        "inToc": true,
         "children": []
       }
     ]
@@ -582,8 +581,8 @@
       "identifier": "urn:uuid:b3ab9d83-872d-4fc3-963a-a5ac6ef73e91",
       "author": "Fjodor Michajlovič Dostojevskij",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-06-29T08:44:39.180Z",
-      "isbn": " 978‑80‑7602‑467‑0"
+      "modified": "2021-06-29T18:09:16.423Z",
+      "isbn": "978‑80‑7602‑467‑0"
     },
     "chapters": [
       {
