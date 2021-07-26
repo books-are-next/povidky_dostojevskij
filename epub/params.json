@@ -5,7 +5,8 @@
       "identifier": "urn:uuid:b3ab9d83-872d-4fc3-963a-a5ac6ef73e91",
       "author": "Fjodor Michajlovič Dostojevskij",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-07-02T09:36:55.285Z"
+      "modified": "2021-07-02T10:08:42.967Z",
+      "isbn": "978-80-7602-468-7; 978-80-7602-467-0; 978-80-7602-469-4"
     },
     "elements": {
       "title": "",
@@ -28,7 +29,7 @@
         "xhtml": "povidky_001.xhtml",
         "title": "",
         "id": 0,
-        "role": "chapter",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -38,9 +39,9 @@
         "xhtml": "povidky_002.xhtml",
         "title": "",
         "id": 1,
-        "role": "chapter",
+        "role": "remove",
         "numberedChildren": false,
-        "inToc": false,
+        "inToc": true,
         "children": []
       },
       {
@@ -48,7 +49,7 @@
         "xhtml": "povidky_003.xhtml",
         "title": "Povídky",
         "id": 2,
-        "role": "chapter",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -56,9 +57,9 @@
       {
         "filename": "povidky_004.md",
         "xhtml": "povidky_004.xhtml",
-        "title": "Znění tohoto textu vychází z díla Dvojník tak, jak bylo vydáno nakladatelstvím Rybka Publishers v Praze v roce 2013. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.",
+        "title": "",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -68,7 +69,7 @@
         "xhtml": "povidky_005.xhtml",
         "title": "BYTNÁ",
         "id": 4,
-        "role": "cover",
+        "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
         "children": [
@@ -133,7 +134,8 @@
             "inToc": true,
             "children": []
           }
-        ]
+        ],
+        "subtitle": "Fantastická povídka"
       },
       {
         "filename": "povidky_012.md",
@@ -143,27 +145,29 @@
         "role": "cover",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_013.md",
-        "xhtml": "povidky_013.xhtml",
-        "title": "1",
-        "id": 12,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_014.md",
-        "xhtml": "povidky_014.xhtml",
-        "title": "2",
-        "id": 13,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "children": [
+          {
+            "filename": "povidky_013.md",
+            "xhtml": "povidky_013.xhtml",
+            "title": "1",
+            "id": 12,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "povidky_014.md",
+            "xhtml": "povidky_014.xhtml",
+            "title": "2",
+            "id": 13,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          }
+        ],
+        "subtitle": "Pozoruhodná příhoda"
       },
       {
         "filename": "povidky_015.md",
@@ -173,17 +177,19 @@
         "role": "cover",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_016.md",
-        "xhtml": "povidky_016.xhtml",
-        "title": "",
-        "id": 15,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "children": [
+          {
+            "filename": "povidky_016.md",
+            "xhtml": "povidky_016.xhtml",
+            "title": "",
+            "id": 15,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          }
+        ],
+        "subtitle": "(Ze zápisníku neznámého)"
       },
       {
         "filename": "povidky_017.md",
@@ -193,17 +199,18 @@
         "role": "cover",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_018.md",
-        "xhtml": "povidky_018.xhtml",
-        "title": "",
-        "id": 17,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "children": [
+          {
+            "filename": "povidky_018.md",
+            "xhtml": "povidky_018.xhtml",
+            "title": "",
+            "id": 17,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          }
+        ]
       },
       {
         "filename": "povidky_019.md",
@@ -213,17 +220,18 @@
         "role": "cover",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_020.md",
-        "xhtml": "povidky_020.xhtml",
-        "title": "",
-        "id": 19,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "children": [
+          {
+            "filename": "povidky_020.md",
+            "xhtml": "povidky_020.xhtml",
+            "title": "",
+            "id": 19,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          }
+        ]
       },
       {
         "filename": "povidky_021.md",
@@ -233,17 +241,18 @@
         "role": "cover",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_022.md",
-        "xhtml": "povidky_022.xhtml",
-        "title": "",
-        "id": 21,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "children": [
+          {
+            "filename": "povidky_022.md",
+            "xhtml": "povidky_022.xhtml",
+            "title": "",
+            "id": 21,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          }
+        ]
       },
       {
         "filename": "povidky_023.md",
@@ -253,17 +262,18 @@
         "role": "cover",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_024.md",
-        "xhtml": "povidky_024.xhtml",
-        "title": "",
-        "id": 23,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "children": [
+          {
+            "filename": "povidky_024.md",
+            "xhtml": "povidky_024.xhtml",
+            "title": "",
+            "id": 23,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          }
+        ]
       },
       {
         "filename": "povidky_025.md",
@@ -273,97 +283,98 @@
         "role": "cover",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_026.md",
-        "xhtml": "povidky_026.xhtml",
-        "title": "1(Petr Ivanyč Ivanu Petroviči)",
-        "id": 25,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_027.md",
-        "xhtml": "povidky_027.xhtml",
-        "title": "2(Ivan Petrovič Petru Ivanyči)",
-        "id": 26,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_028.md",
-        "xhtml": "povidky_028.xhtml",
-        "title": "3(Petr Ivanyč Ivanu Petroviči)",
-        "id": 27,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_029.md",
-        "xhtml": "povidky_029.xhtml",
-        "title": "4(Ivan Petrovič Petru Ivanyči)",
-        "id": 28,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_030.md",
-        "xhtml": "povidky_030.xhtml",
-        "title": "5(Petr Ivanyč Ivanu Petroviči)",
-        "id": 29,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_031.md",
-        "xhtml": "povidky_031.xhtml",
-        "title": "6(Ivan Petrovič Petru Ivanyči)",
-        "id": 30,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_032.md",
-        "xhtml": "povidky_032.xhtml",
-        "title": "7(Petr Ivanyč Ivanu Petroviči)",
-        "id": 31,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_033.md",
-        "xhtml": "povidky_033.xhtml",
-        "title": "8",
-        "id": 32,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_034.md",
-        "xhtml": "povidky_034.xhtml",
-        "title": "9",
-        "id": 33,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "children": [
+          {
+            "filename": "povidky_026.md",
+            "xhtml": "povidky_026.xhtml",
+            "title": "1(Petr Ivanyč Ivanu Petroviči)",
+            "id": 25,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "povidky_027.md",
+            "xhtml": "povidky_027.xhtml",
+            "title": "2(Ivan Petrovič Petru Ivanyči)",
+            "id": 26,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "povidky_028.md",
+            "xhtml": "povidky_028.xhtml",
+            "title": "3(Petr Ivanyč Ivanu Petroviči)",
+            "id": 27,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "povidky_029.md",
+            "xhtml": "povidky_029.xhtml",
+            "title": "4(Ivan Petrovič Petru Ivanyči)",
+            "id": 28,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "povidky_030.md",
+            "xhtml": "povidky_030.xhtml",
+            "title": "5(Petr Ivanyč Ivanu Petroviči)",
+            "id": 29,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "povidky_031.md",
+            "xhtml": "povidky_031.xhtml",
+            "title": "6(Ivan Petrovič Petru Ivanyči)",
+            "id": 30,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "povidky_032.md",
+            "xhtml": "povidky_032.xhtml",
+            "title": "7(Petr Ivanyč Ivanu Petroviči)",
+            "id": 31,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "povidky_033.md",
+            "xhtml": "povidky_033.xhtml",
+            "title": "8",
+            "id": 32,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "povidky_034.md",
+            "xhtml": "povidky_034.xhtml",
+            "title": "9",
+            "id": 33,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          }
+        ]
       },
       {
         "filename": "povidky_035.md",
@@ -373,57 +384,58 @@
         "role": "cover",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_036.md",
-        "xhtml": "povidky_036.xhtml",
-        "title": "",
-        "id": 35,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": []
-      },
-      {
-        "filename": "povidky_037.md",
-        "xhtml": "povidky_037.xhtml",
-        "title": "1",
-        "id": 36,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_038.md",
-        "xhtml": "povidky_038.xhtml",
-        "title": "2",
-        "id": 37,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_039.md",
-        "xhtml": "povidky_039.xhtml",
-        "title": "3",
-        "id": 38,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "povidky_040.md",
-        "xhtml": "povidky_040.xhtml",
-        "title": "4",
-        "id": 39,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "children": [
+          {
+            "filename": "povidky_036.md",
+            "xhtml": "povidky_036.xhtml",
+            "title": "",
+            "id": 35,
+            "role": "cover",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "povidky_037.md",
+            "xhtml": "povidky_037.xhtml",
+            "title": "1",
+            "id": 36,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "povidky_038.md",
+            "xhtml": "povidky_038.xhtml",
+            "title": "2",
+            "id": 37,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "povidky_039.md",
+            "xhtml": "povidky_039.xhtml",
+            "title": "3",
+            "id": 38,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          },
+          {
+            "filename": "povidky_040.md",
+            "xhtml": "povidky_040.xhtml",
+            "title": "4",
+            "id": 39,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": []
+          }
+        ]
       },
       {
         "filename": "povidky_041.md",
@@ -437,7 +449,7 @@
           {
             "filename": "povidky_042.md",
             "xhtml": "povidky_042.xhtml",
-            "title": "",
+            "title": "Zápisky pana X.",
             "id": 41,
             "role": "chapter",
             "numberedChildren": false,
@@ -449,9 +461,9 @@
       {
         "filename": "povidky_043.md",
         "xhtml": "povidky_043.xhtml",
-        "title": "CHLAPECU KRISTOVA VÁNOČNÍHO STROMU",
+        "title": "CHLAPEC U KRISTOVA VÁNOČNÍHO STROMU",
         "id": 42,
-        "role": "chapter",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": true,
         "children": [
@@ -486,7 +498,8 @@
             "inToc": false,
             "children": []
           }
-        ]
+        ],
+        "subtitle": "(Ze spisovatelova deníku)"
       },
       {
         "filename": "povidky_047.md",
@@ -547,7 +560,8 @@
             "inToc": true,
             "children": []
           }
-        ]
+        ],
+        "subtitle": "Fantastická povídka"
       },
       {
         "filename": "povidky_053.md",
@@ -567,7 +581,8 @@
       "identifier": "urn:uuid:b3ab9d83-872d-4fc3-963a-a5ac6ef73e91",
       "author": "Fjodor Michajlovič Dostojevskij",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-07-02T09:36:55.285Z"
+      "modified": "2021-07-02T10:08:42.967Z",
+      "isbn": "978-80-7602-468-7; 978-80-7602-467-0; 978-80-7602-469-4"
     },
     "chapters": [
       {
