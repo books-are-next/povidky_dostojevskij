@@ -1,5 +1,5 @@
 ---
-title: ""
+{}
 ---
 
 BLA BLA BLA
