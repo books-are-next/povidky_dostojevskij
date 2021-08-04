@@ -1,5 +1,5 @@
 ---
-title: ""
+{}
 ---
 
 CIZÍ ŽENA A MUŽ  

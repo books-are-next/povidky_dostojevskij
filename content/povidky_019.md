@@ -1,5 +1,5 @@
 ---
-title: ""
+{}
 ---
 
 POCTIVÝ ZLODĚJ

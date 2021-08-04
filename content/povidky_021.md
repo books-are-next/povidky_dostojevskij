@@ -1,5 +1,5 @@
 ---
-title: ""
+{}
 ---
 
 PAN PROBAŠTIN

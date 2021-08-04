@@ -1,5 +1,5 @@
 ---
-title: ""
+{}
 ---
 
 VÁNOČNÍ STROM  
