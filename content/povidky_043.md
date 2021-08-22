@@ -1,7 +1,6 @@
 ---
-{}
+title: "CHLAPECU\_KRISTOVAVÁNOČNÍHO STROMU"
+subtitle: ''
 ---
 
-CHLAPEC  
-U KRISTOVA  
-VÁNOČNÍHO STROMU
+

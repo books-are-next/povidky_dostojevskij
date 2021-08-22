@@ -1,5 +1,6 @@
 ---
-{}
+title: ''
+subtitle: ''
 ---
 
 Znění tohoto textu vychází z díla [Dvojník](https://search.mlp.cz/cz/titul/dvojnik/3989150/) tak, jak bylo vydáno nakladatelstvím Rybka Publishers v Praze v roce 2013. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
@@ -18,7 +19,8 @@ Verze 1.0 z 22. 1. 2019.
 
 
 ---
-{}
+title: ''
+subtitle: ''
 ---
 
 Fjodor Michajlovič Dostojevskij  
