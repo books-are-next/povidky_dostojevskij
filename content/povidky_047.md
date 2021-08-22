@@ -1,10 +1,6 @@
 ---
-{}
+title: "SENSMĚŠNÉHOČLOVĚKA\_"
+subtitle: Fantastická povídka
 ---
 
-SEN  
-SMĚŠNÉHO  
-ČLOVĚKA  
- 
 
-Fantastická povídka

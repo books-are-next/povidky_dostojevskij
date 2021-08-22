@@ -1,5 +1,6 @@
 ---
-{}
+title: BLA BLA BLA
+subtitle: ''
 ---
 
-BLA BLA BLA
+

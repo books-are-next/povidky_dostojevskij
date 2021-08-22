@@ -1,9 +1,6 @@
 ---
-{}
+title: "CIZÍ ŽENA A\_MUŽPOD POSTELÍ\_"
+subtitle: Pozoruhodná příhoda
 ---
 
-CIZÍ ŽENA A MUŽ  
-POD POSTELÍ  
- 
 
-Pozoruhodná příhoda

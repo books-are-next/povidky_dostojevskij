@@ -1,8 +1,6 @@
 ---
-{}
+title: "NĚŽNÁ\_"
+subtitle: Fantastická povídka
 ---
 
-NĚŽNÁ  
- 
 
-Fantastická povídka

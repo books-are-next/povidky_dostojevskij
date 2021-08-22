@@ -1,9 +1,6 @@
 ---
-{}
+title: "VÁNOČNÍ STROMA\_SVATBA\_"
+subtitle: (Ze zápisníku neznámého)
 ---
 
-VÁNOČNÍ STROM  
-A SVATBA  
- 
 
-(Ze zápisníku neznámého)

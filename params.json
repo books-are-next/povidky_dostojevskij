@@ -9,19 +9,24 @@
       "isbn": "978-80-7602-468-7; 978-80-7602-467-0; 978-80-7602-469-4"
     },
     "elements": {
-      "title": "",
-      "subtitle": "",
+      "title": "MLP-uroven1-cast",
+      "subtitle": "MLP-titulka-podnazev",
       "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
-      "invisibleHr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
       "blockquote": "",
       "figure": "",
       "em": "",
       "strong": "",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "invisibleHr": ""
     },
     "structure": [
       {
@@ -581,7 +586,7 @@
       "identifier": "urn:uuid:b3ab9d83-872d-4fc3-963a-a5ac6ef73e91",
       "author": "Fjodor Michajlovič Dostojevskij",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-04T20:41:46.444Z"
+      "modified": "2021-08-22T14:25:53.138Z"
     },
     "chapters": [
       {
@@ -609,7 +614,7 @@
         "xhtml": "povidky_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "BYTNÁ",
         "subtitleSuggest": "",
         "filename": "povidky_005.md",
         "xhtml": "povidky_005.xhtml"
@@ -627,8 +632,8 @@
         "xhtml": "povidky_007.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "NĚŽNÁ ",
+        "subtitleSuggest": "Fantastická povídka",
         "filename": "povidky_008.md",
         "xhtml": "povidky_008.xhtml"
       },
@@ -651,8 +656,8 @@
         "xhtml": "povidky_011.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "CIZÍ ŽENA A MUŽPOD POSTELÍ ",
+        "subtitleSuggest": "Pozoruhodná příhoda",
         "filename": "povidky_012.md",
         "xhtml": "povidky_012.xhtml"
       },
@@ -669,8 +674,8 @@
         "xhtml": "povidky_014.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "VÁNOČNÍ STROMA SVATBA ",
+        "subtitleSuggest": "(Ze zápisníku neznámého)",
         "filename": "povidky_015.md",
         "xhtml": "povidky_015.xhtml"
       },
@@ -681,7 +686,7 @@
         "xhtml": "povidky_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "SLABÉ SRDCE",
         "subtitleSuggest": "",
         "filename": "povidky_017.md",
         "xhtml": "povidky_017.xhtml"
@@ -693,7 +698,7 @@
         "xhtml": "povidky_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "POCTIVÝ ZLODĚJ",
         "subtitleSuggest": "",
         "filename": "povidky_019.md",
         "xhtml": "povidky_019.xhtml"
@@ -705,7 +710,7 @@
         "xhtml": "povidky_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PAN PROBAŠTIN",
         "subtitleSuggest": "",
         "filename": "povidky_021.md",
         "xhtml": "povidky_021.xhtml"
@@ -717,7 +722,7 @@
         "xhtml": "povidky_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "PLAZUNKOV",
         "subtitleSuggest": "",
         "filename": "povidky_023.md",
         "xhtml": "povidky_023.xhtml"
@@ -729,7 +734,7 @@
         "xhtml": "povidky_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ROMÁNV DEVÍTI DOPISECH",
         "subtitleSuggest": "",
         "filename": "povidky_025.md",
         "xhtml": "povidky_025.xhtml"
@@ -789,7 +794,7 @@
         "xhtml": "povidky_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KROKODÝL",
         "subtitleSuggest": "",
         "filename": "povidky_035.md",
         "xhtml": "povidky_035.xhtml"
@@ -825,7 +830,7 @@
         "xhtml": "povidky_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "BLA BLA BLA",
         "subtitleSuggest": "",
         "filename": "povidky_041.md",
         "xhtml": "povidky_041.xhtml"
@@ -837,7 +842,7 @@
         "xhtml": "povidky_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "CHLAPECU KRISTOVAVÁNOČNÍHO STROMU",
         "subtitleSuggest": "",
         "filename": "povidky_043.md",
         "xhtml": "povidky_043.xhtml"
@@ -849,8 +854,8 @@
         "xhtml": "povidky_044.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "MUŽIK MAREJ ",
+        "subtitleSuggest": "(Ze spisovatelova deníku)",
         "filename": "povidky_045.md",
         "xhtml": "povidky_045.xhtml"
       },
@@ -861,8 +866,8 @@
         "xhtml": "povidky_046.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "SENSMĚŠNÉHOČLOVĚKA ",
+        "subtitleSuggest": "Fantastická povídka",
         "filename": "povidky_047.md",
         "xhtml": "povidky_047.xhtml"
       },
@@ -988,6 +993,6 @@
       "user": "books-are-next",
       "repo": "povidky_dostojevskij"
     },
-    "generatedAt": 1628109707257
+    "generatedAt": 1629642354031
   }
 }
