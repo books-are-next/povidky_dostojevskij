@@ -1,6 +1,0 @@
----
-title: SLABÉ SRDCE
-subtitle: ''
----
-
-

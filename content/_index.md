@@ -1,6 +1,6 @@
 ---
-title: ''
-subtitle: ''
+title: "SENSMĚŠNÉHOČLOVĚKA\_"
+subtitle: Fantastická povídka
 ---
 
-![obalka_povidky.jpg](./resources/obalka_povidky_fmt.jpeg)
+
