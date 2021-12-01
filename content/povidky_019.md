@@ -1,6 +1,0 @@
----
-title: POCTIVÝ ZLODĚJ
-subtitle: ''
----
-
-
