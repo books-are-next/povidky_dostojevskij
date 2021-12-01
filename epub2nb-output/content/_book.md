@@ -8,6 +8,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-07-02T10:08:42.967Z'
   isbn: 978-80-7602-468-7; 978-80-7602-467-0; 978-80-7602-469-4
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - povidky_005.html
   - povidky_006.html

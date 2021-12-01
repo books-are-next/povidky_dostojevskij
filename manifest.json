@@ -1,14 +1,16 @@
 {
   "author": "Fjodor Michajlovič Dostojevskij",
-  "identifier": "dostojevskij-povidky-ae9185d",
+  "edition": "beletrie",
+  "identifier": "dostojevskij-povidky-242c3dd",
   "isbn": "978-80-7602-468-7; 978-80-7602-467-0; 978-80-7602-469-4",
   "modified": "2021-07-02T10:08:42.967Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Povídky",
-  "revision": "ae9185d",
+  "revision": "242c3dd",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 21:17:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638393472518
+    "date": "Wed Dec 01 2021 22:02:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638396168114
   },
   "documents": [
     {
@@ -94,9 +96,9 @@
   ],
   "totals": {
     "all": {
-      "words": 109483,
-      "chars": 654505,
-      "ideas": 2582
+      "words": 109485,
+      "chars": 654516,
+      "ideas": 2584
     },
     "chapters": {
       "words": 22219,
