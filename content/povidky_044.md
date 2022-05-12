@@ -1,6 +1,7 @@
 ---
 title: ''
 subtitle: ''
+contentType: prose
 ---
 
 Jsem romanopisec a napsal jsem, jak se zdá, vlastnoručně jeden „příběh“. Proč říkám „jak se zdá“ – vždyť vím, že jsem ho napsal, ale stále mám pocit, že se kdesi kdysi skutečně stal, a právě v předvečer Vánoc v jakémsi obrovském městě a za krutého mrazu.

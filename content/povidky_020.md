@@ -1,6 +1,7 @@
 ---
 title: ''
 subtitle: ''
+contentType: prose
 ---
 
 Jednou ráno, když už jsem se chystal do úřadu, vešla Agrafena, moje kuchařka, pradlena a hospodyně, a k mému překvapení se mnou zapředla hovor.
