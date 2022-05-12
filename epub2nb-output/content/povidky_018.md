@@ -1,6 +1,7 @@
 ---
 title: ''
 subtitle: ''
+contentType: prose
 ---
 
 Pod jednou střechou, v jednom bytě ve třetím patře bydleli dva mladí úředníci a kolegové, Arkadij Ivanovič Něfeděvič a Vasja Šumkov… Autor pochopitelně cítí potřebu vysvětlit čtenáři, proč jeden z hrdinů je nazván plným jménem a druhý zdrobnělinou, třeba jen proto, aby nepovažoval takový způsob vyjadřování za nezdvořilý a snad až příliš důvěrný. Ale k tomu by bylo nutné předem vysvětlit a popsat hodnost, počet služebních let, stav a funkci a konečně i charakter jednajících postav, a protože je spousta těch, kteří právě takhle začínají, autor předkládané novely se rozhodl začít příběhem jen proto, aby se od nich odlišil (totiž, jak nejspíš někteří usoudí, z bezmezné samolibosti). Tak tedy po tomto úvodu náš příběh začíná.

@@ -588,7 +588,7 @@
       "identifier": "urn:uuid:b3ab9d83-872d-4fc3-963a-a5ac6ef73e91",
       "author": "Fjodor Michajlovič Dostojevskij",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-01T22:01:52.669Z"
+      "modified": "2019-01-23T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -995,6 +995,6 @@
       "user": "books-are-next",
       "repo": "povidky_dostojevskij"
     },
-    "generatedAt": 1638396113792
+    "generatedAt": 1652351263800
   }
 }

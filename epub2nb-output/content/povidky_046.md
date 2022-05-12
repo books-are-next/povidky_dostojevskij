@@ -1,6 +1,7 @@
 ---
 title: ''
 subtitle: ''
+contentType: prose
 ---
 
 Všechna ta professions de foi[^1] jsou podle mého nudné čtení, a proto budu vyprávět jednu anekdotu, vlastně to ani není anekdota, pouze jedna dávná vzpomínka, kterou mám chuť vyprávět právě teď a tady, na závěr našeho traktátu o lidu. Tenkrát mi bylo všehovšudy devět let… ale ne, raději začnu rokem, kdy mi bylo devětadvacet let.

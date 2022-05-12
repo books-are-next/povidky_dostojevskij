@@ -1,6 +1,8 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
+languageCode: en
 meta:
   title: Povídky
   identifier: urn:uuid:b3ab9d83-872d-4fc3-963a-a5ac6ef73e91

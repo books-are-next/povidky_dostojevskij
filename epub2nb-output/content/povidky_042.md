@@ -1,6 +1,7 @@
 ---
 title: ''
 subtitle: ''
+contentType: prose
 ---
 
 Tentokrát publikuji Zápisky pana X. To nejsem já, ale někdo úplně jiný. Soudím, že nepotřebují žádný další úvod.
