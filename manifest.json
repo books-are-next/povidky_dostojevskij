@@ -8,19 +8,32 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "dostojevskij-povidky-ca8679c",
-  "revision": "ca8679c",
+  "identifier": "dostojevskij-povidky-e1b81d2",
+  "revision": "e1b81d2",
   "readingOrder": [
+    "promo.html",
     "povidky_005.html",
     "povidky_006.html",
     "povidky_007.html",
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:35:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351723292
+    "date": "Thu May 12 2022 15:11:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652368267168
   },
   "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "povidky_005.html",
+      "toc": []
+    },
     {
       "title": "BYTNÁ",
       "file": "povidky_005.html",
@@ -28,8 +41,8 @@
       "chars": 5,
       "ideas": 1,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 1,
+      "prev": "promo.html",
       "next": "povidky_006.html",
       "toc": [
         {
@@ -48,7 +61,7 @@
       "chars": 58235,
       "ideas": 237,
       "role": "chapter",
-      "order": 1,
+      "order": 2,
       "prev": "povidky_005.html",
       "next": "povidky_007.html",
       "toc": [
@@ -68,7 +81,7 @@
       "chars": 75053,
       "ideas": 218,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "povidky_006.html",
       "next": "colophon.html",
       "toc": [
