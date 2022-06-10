@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 6  
 (Ivan Petrovič Petru Ivanyči)
 
@@ -22,3 +24,5 @@ Nyní docházím k Vaší hlavní zradě a věrolomnosti vůči mně, a to k�
 Tolik na vysvětlenou. Tím končím. Závěr je následující, vážený pane: jestliže mi v co nejkratší době po obdržení tohoto listu nevrátíte za prvé celý obnos, který jste ode mě obdržel, to jest tři sta padesát rublů ve stříbře, a za druhé všechny další sumy, jak jste slíbil, uchýlím se k všemožným prostředkům, třeba i s použitím síly, abych Vás přiměl k navrácení těch peněz, a taktéž k dodržování zákonů. Nakonec Vám oznamuji, že mám k dispozici určitá svědectví, která u sebe chovám jakožto Váš nejoddanější sluha a ctitel a která mohou poškodit a očernit Vaše jméno před celou společností.
 
 Dovoluji si zůstat atd.
+
+</section>

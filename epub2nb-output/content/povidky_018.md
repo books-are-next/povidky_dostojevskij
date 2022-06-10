@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 Pod jednou střechou, v jednom bytě ve třetím patře bydleli dva mladí úředníci a kolegové, Arkadij Ivanovič Něfeděvič a Vasja Šumkov… Autor pochopitelně cítí potřebu vysvětlit čtenáři, proč jeden z hrdinů je nazván plným jménem a druhý zdrobnělinou, třeba jen proto, aby nepovažoval takový způsob vyjadřování za nezdvořilý a snad až příliš důvěrný. Ale k tomu by bylo nutné předem vysvětlit a popsat hodnost, počet služebních let, stav a funkci a konečně i charakter jednajících postav, a protože je spousta těch, kteří právě takhle začínají, autor předkládané novely se rozhodl začít příběhem jen proto, aby se od nich odlišil (totiž, jak nejspíš někteří usoudí, z bezmezné samolibosti). Tak tedy po tomto úvodu náš příběh začíná.
 
 Kolem šesté hodiny, v předvečer Nového roku, se Šumkov vrátil domů. Arkadij, který ležel na posteli, se probudil a zamžoural na něj. Postřehl, že má na sobě svůj nejlepší civilní oblek a běloskvoucí náprsenku. To ho přirozeně překvapilo. Kam se Vasja chystal takhle vyparáděný? Ani neobědval doma! Šumkov mezitím zažehl svíčku a Arkadij se okamžitě dovtípil, že přítel se ho snaží nečekaně probudit. A skutečně, Vasja dvakrát zakašlal, dvakrát přešel po pokoji a konečně mimoděk upustil dýmku, kterou si pravděpodobně nacpával v koutě u kamen. Arkadij se usmál pod vousy.
@@ -835,3 +837,5 @@ Po úředních hodinách se vypravil ke kolomenským. Nemusím vám ani říkat,
 Stal se z něho nudný zasmušilý patron, ztratil všechnu svou veselost. Začal nenávidět dosavadní byt a najal si jiný. Ke kolomenským nechtěl a ani nemohl jít.
 
 Po dvou letech potkal Lizaňku v kostele. Byla už vdaná, za ní šla chůva s kojencem v náruči. Pozdravili se a dlouho se vyhýbali rozhovoru o minulosti. Líza řekla, že je chválabohu šťastná, není z nejchudších, muž je hodný člověk a má ho ráda… Najednou uprostřed hovoru se jí oči naplnily slzami a hlas se jí zlomil: odvrátila se a hluboce se sklonila až k chrámové dlažbě, aby před lidmi utajila svoje hoře…
+
+</section>

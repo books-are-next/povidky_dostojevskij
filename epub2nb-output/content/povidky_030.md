@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 5  
 (Petr Ivanyč Ivanu Petroviči)
 
@@ -16,3 +18,5 @@ Váš list mě rozhořčil do hloubi duše. Není Vám hanba, můj drahý, ale n
 Bez ohledu na to, že Váš list mě hluboce ranil, byl bych první, kdo by ještě dnes k Vám zašel a požádal o prominutí, ale mám od včerejška tolik starostí, že jsem naprosto zničen a sotva se držím na nohou. K dovršení všech malérů moje žena ulehla a bojím se, že to bude vážné. Pokud jde o maličkého, chválabohu je mu líp. Odkládám pero… povinnosti mě volají, a je jich spousta.
 
 S Vaším dovolením zůstávám, můj drahocenný příteli… atd.
+
+</section>

@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 8
 
 Šestnáctého listopadu obdržel Petr Ivanyč městskou poštou dva dopisy na své jméno. Sotva otevřel první, vytáhl umně složené růžové psaníčko, napsané rukou jeho ženy, datované 2. listopadu a adresované Jevgeniji Nikolajeviči. Nic dalšího v obálce nebylo. Petr Ivanyč četl:
@@ -21,3 +23,5 @@ Petře Ivanyči!
 Beztak bych nikdy do Vašeho domu nevkročil: zbytečně jste ráčil kazit papír.
 
 Příští týden odjíždím do Simbirsku: Vaším drahocenným, nejmilejším přítelem zůstane Jevgenij Nikolajevič. Přeji Vám hodně úspěchů a o galoše se neznepokojujte.
+
+</section>

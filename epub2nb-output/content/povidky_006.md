@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 ČÁST PRVNÍ
 
 1
@@ -477,3 +479,5 @@ Opět sklesl na lůžko, které mu ustlala, a naslouchal. Zaslechl dvojí dech:
 Připomněl si její slova. Všecko, co mu říkala, mu dosud znělo v uších jako hudba a srdce láskyplně odpovídalo těžkými tlumenými údery na každé nábožně opakované slovo… Na vteřinu se mu mihlo hlavou, že to všecko byl sen. Ale vzápětí celou svou bytostí pocítil útěšný smutek, když si znovu vybavil její horký dech, její slova a polibek. Zavřel oči a už o sobě nevěděl. Kdesi odbíjely hodiny: bylo pozdě, šeřilo se.
 
 Zdálo se mu, že se nad ním zase sklání, hledí mu do očí svýma kouzelně jasnýma očima, zvlhlýma jiskřivými slzami tiché radosti, klidnýma a jasnýma jako nekonečná tyrkysová nebeská báň za horkého poledne. Její tvář vyzařovala sváteční klid, její úsměv hřál příslibem bezmezné blaženosti; soucitně, s dětským zápalem, mu spočinula na rameni, že se mu z vysílených prsou vydral radostný vzdech. Chtěla mu cosi povědět, laskavě mu cosi svěřovala. Náhle zaslechl hudbu, která drásala srdce. Dychtivě sál do sebe vzduch, zelektrizovaný jejím blízkým dechem. V teskné touze rozpřáhl náruč a s povzdechem otevřel oči… Stála před ním, skláněla se k němu, celá bledá, jako by se něčeho polekala, plakala a chvěla se rozrušením. Cosi mu říkala, o něco ho úpěnlivě prosila a přitom lomila poloobnaženýma rukama. Sevřel ji v objetí a ona se roztřásla v jeho náručí.
+
+</section>

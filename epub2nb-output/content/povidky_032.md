@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 7  
 (Petr Ivanyč Ivanu Petroviči)
 
@@ -16,3 +18,5 @@ Když jsem obdržel Vaše obhroublé a současně podivné poselství, v prvn�
 Moje žena s díky vrací Vaší ženě zapůjčenou knihu, Dona Quijota. Co se týče Vašich galoší, údajně u nás zapomenutých při Vaší poslední návštěvě, s lítostí Vám oznamuji, že se nikde nenašly, ale naši lidé je hledají. Kdyby se nenašly, koupím Vám nové.
 
 Mám tu čest zůstat atd.
+
+</section>

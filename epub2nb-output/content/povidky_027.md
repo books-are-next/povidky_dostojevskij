@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 2  
 (Ivan Petrovič Petru Ivanyči)
 
@@ -16,3 +18,5 @@ Když jsem četl Váš dopis, divil jsem se. Píšete o Jevgeniji Nikolajeviči
 Prozatím zůstávám…
 
 P. S. Moje žena je těhotná a navíc lekavá a občas trpí melancholií. V divadelních představeních se někdy střílí a s pomocí mašin se vyrábí hrom. Proto ženu do divadel nevodím, aby se nevylekala. A já sám si na divadlo příliš nepotrpím.
+
+</section>

@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 3
 
 A přece to nebyl sen, nýbrž pravá nepochybná skutečnost. Cožpak bych vám to jinak vyprávěl? Ale pokračuji…
@@ -129,3 +131,5 @@ Po poradě se svou Mutter žádal za svého krokodýla padesát tisíc rublů v�
 „Šílenec, říkat?“ zařval uražený Němec, „ne, já velmi chytrý být a vy velmi hloupý! Já zasloužit plukovník, protože já předvádět krokodýl a v něm živý Hofrat sedět, ale Rus neumět předvádět krokodýl! Já velice chytrý být a moc chtít být plukovník!“
 
 „Tak tedy sbohem, příteli!“ zavolal jsem na Ivana Matvejiče a skoro poklusem jsem vyběhl z krokodýlárny. Celý jsem se třásl zlostí a cítil jsem, že ještě okamžik a nemohl bych za sebe ručit: nereálné naděje těch dvou tupců byly nesnesitelné. Osvěžil mě chladný vzduch a poněkud zmírnil moje rozhořčení. Nakonec jsem si energicky skoro patnáctkrát odplivl, vzal jsem si drožku, dojel domů, svlékl jsem se a sklesl na postel. Nejmrzutější na tom bylo, že se mám stát jeho tajemníkem. Teď abych tam večer co večer umíral nudou a plnil povinnosti věrného přítele… Byl bych si s chutí za to pořádně nařezal a opravdu, když jsem sfoukl svíčku a vlezl pod pokrývku, několikrát jsem se bouchl pěstí do hlavy i do jiných částí těla. Trochu se mi ulevilo a konečně jsem dost tvrdě usnul; byl jsem hrozně unavený. Celou noc se mi zdálo jen o opicích, ale k ránu se mi ve snu zjevila Jelena Ivanovna…
+
+</section>

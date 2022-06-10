@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 1
 
 Třináctého ledna letošního roku, roku 1865, manželka mého vzdě­laného přítele, kolegy a částečně také vzdáleného příbuzného Ivana Matvejiče Jelena Ivanovna si přála o půl jedné v poledne prohlédnout si krokodýla, kterého ukazovali za jistý poplatek v Pasáži. Ivan Matvejič už měl v kapse jízdenku do ciziny (nejel tam proto, aby se léčil, jako spíš ze zvědavosti) a dostal ten den v úřadu volno, takže se nevzpouzel neodolatelnému přání své choti, ale dokonce sám zahořel zvědavostí.
@@ -129,3 +131,5 @@ Byla to nepředvídaná otázka a i mě zaujala. Po pravdě řečeno, mě vůbe
 Zkrátka a dobře – projevil se zcela pochopitelný a přirozený stesk mladé zajímavé ženy po muži, který zahynul. Konečně jsem ji dovedl domů, uklidnil jsem ji a poobědval společně s ní. Po šálku vonné kávy jsem se v šest hodin vypravil k Timofeji Semjonyči: měl jsem za to, že v tuto dobu všichni ženatí muži určitých zaměstnání sedí nebo leží doma.
 
 Napsal jsem tuhle první kapitolu stylem vhodným pro líčenou událost, a dále hodlám pokračovat nepříliš vznešeným, zato však přirozeným stylem, což předem dávám čtenáři na vědomí.
+
+</section>

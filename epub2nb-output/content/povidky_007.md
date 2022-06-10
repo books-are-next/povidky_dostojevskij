@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 ČÁST DRUHÁ
 
 1
@@ -439,3 +441,5 @@ Jaroslav Iljič mluvil procítěně a při jednom odsoudil celé lidstvo; jinak
 Srdce se mu prudce rozbušilo a hrozilo, že vyskočí z prsou.
 
 „Ostatně, když říkáte…“ dodal Jaroslav Iljič a zabodl do Ordynova olověný pohled – to znamenalo, že uvažoval. „Ne, Murin nemohl být jeden z nich. Přesně tři neděle předtím odjel se ženou do svého rodného kraje… Dozvěděl jsem se to od domovníka… toho Tatara, vzpomínáte si?“
+
+</section>

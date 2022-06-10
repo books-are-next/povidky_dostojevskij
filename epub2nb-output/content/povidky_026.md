@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 1  
 (Petr Ivanyč Ivanu Petroviči)
 
@@ -16,3 +18,5 @@ Letím do Alexandrinského divadla, ale nejste ani tam. Dnes ráno jsem si mysle
 Mimochodem, můj drahocenný příteli, když už to dospělo až k dopisování, vezmu to všechno při jednom – jsem nucen si postěžovat a dokonce Vás pokárat za jeden nejspíš zcela nevinný taškářský kousek… Škodolibě jste si ze mě vystřelil, vy ohavo… Kouska svědomí nemáte! Přibližně od poloviny minulého měsíce k nám vodíte jednoho svého známého, Jevgenije Nikolajiče, a doprovázíte to svým přátelským doporučením, které je pro mě svaté. Mám z té příležitosti radost, přijímám toho mladého muže s otevřenou náručí a přitom současně pokládám hlavu na špalek. Špalek sem, špalek tam, ale vyšlo z toho něco náramného. Teď není čas na vysvětlení, a vůbec je trapné o tom psát, ale poníženě Vás prosím, můj zlomyslný příteli a kamaráde, nemůžete nějakým způsobem, co nejtaktněji, v uvozovkách, potají pošeptat do ouška tomu Vašemu mladému muži, že v našem hlavním městě existuje kromě našeho spousta jiných domů? Já už dál nemohu, můj milý! Jak říkává náš přítel Simoněvič, biju čelem o zem. Až se uvidíme, všechno Vám objasním. Nemíním tím, že ten mladík nemá vychování nebo že zaostává svými schopnostmi nebo čímsi jiným. Naopak, je to milý a laskavý mládenec. Ale počkejte, až se sejdeme, všecko se dozvíte. A zatím, jestliže ho potkáte, pošeptejte mu, co je třeba, proboha Vás prosím, velectěný pane! Udělal bych to sám, ale znáte mě: prostě nemohu a hotovo. Vy jste ho přece doporučil. Ostatně večer si to každopádně vysvětlíme podrobněji. Prozatím na shledanou. Zůstávám atd.
 
 P. S. Maličký už skoro týden stůně a každým dnem je mu hůř a hůř. Prořezávají se mu zoubky a trpí. Žena ho pořád ošetřuje a je z toho, chudinka, smutná. Přijeďte. Upřímně nás potěšíte, můj drahocenný příteli.
+
+</section>
