@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 1
 
 „Promiňte, vážený, směl bych se vás zeptat…“
@@ -577,3 +579,5 @@ Předjel kočár a dáma nastoupila. Pán v mývalím kožichu se zastavil: zd
 „Velice, velice mě těšilo…“
 
 Pán v mývalím kožichu vsedl do kočáru a ten se rozjel. Mladý muž dosud stál na místě a provázel ho udiveným pohledem.
+
+</section>

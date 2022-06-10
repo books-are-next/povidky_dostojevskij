@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 KAPITOLA DRUHÁ
 
 1\. Sen hrdosti
@@ -129,3 +131,5 @@ Slepá, je slepá! A mrtvá, neslyší! Ani nevíš, jaký ráj bych ti připra
 Taková zkostnatělost! Ach, přírodo! Lidé jsou na světě sami a v tom je celé neštěstí! „Je tu někdo živý?“ volá ruský bohatýr. Totéž volám i já, přestože nejsem bohatýr, ale nikdo se neozývá. Slunce prý oživuje vesmír. Ale když vyjde, pohleďte na ně, není snad mrtvé? Všecko je mrtvé a všude samé mrtvoly. Nic víc, jen lidé a všude kolem mlčení – to je náš svět! „Lidé, milujte se vespolek!“ Kdo to řekl? Čí je to odkaz? Kyvadlo bezcitně, odporně odměřuje čas. Jsou dvě hodiny v noci. Její pantoflíčky stojí u postele, jako by na ni čekaly… Ne, vážně, co si počnu, až ji zítra odnesou?
 
 (Pozn. překl: Vzhledem k zavedenému názvu „Něžná“, který byl použit u filmové verze, jsme ponechali tento titul i v našem vydání. V prvním vydání vyšla povídka pod názvem „Plachá“.)
+
+</section>

@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 Jednou ráno, když už jsem se chystal do úřadu, vešla Agrafena, moje kuchařka, pradlena a hospodyně, a k mému překvapení se mnou zapředla hovor.
 
 Až dosud to byla mlčenlivá prostá ženská, která za těch přibližně šest let neutrousila skoro ani slůvko navíc kromě každodenních několika vět o tom, co má uvařit k obědu. Přinejmenším jsem od ní nic jiného nikdy neslyšel.
@@ -341,3 +343,5 @@ Podal jsem mu vodu. Napil se.
 ‚Astafiji Ivanoviči…‘
 
 Vidím, že mi Jemeljan chce něco říct, zvedá se na posteli a s největším úsilím pohybuje rty… Najednou celý zrudne a podívá se na mě… Vtom znovu zbledne, strne, hlavu zvrácenou, zhluboka vydechne a odevzdá duši pánubohu…“
+
+</section>

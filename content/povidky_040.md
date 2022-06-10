@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 4
 
 Jak se domýšlím, o opicích se mi zdálo proto, že je ukazovali ve vitríně v podniku majitele krokodýla, ale Jelena Ivanovna, to byla kapitola sama pro sebe.
@@ -85,3 +87,5 @@ Hle, co jsem si přečetl v označeném článku v Chlupu:
 Po těch slovech se náš podivín zahloubal do spisů a víc nepromluvil ani slovo.
 
 Chlup i Lístek jsem schoval do kapsy, kromě toho jsem pro večerní rozptýlení svého přítele sebral staré Zprávy a Chlupy, kolik jsem jich jen objevil, a přestože do večera bylo ještě daleko, vytratil jsem se tentokrát dřív z kanceláře, abych pobyl v Pasáži, alespoň zdálky se podíval, co se tam děje, a vyslechl různé názory a proudy. Tušil jsem, že tam bude velká tlačenice, a pro každý případ jsem si vyhrnul límec pláště, protože bůhvíproč jsem se trochu styděl: prostě jsme si dosud nezvykli na publicitu, tak je to. Cítím ale, že nemám právo tlumočit svoje vlastní prozaické dojmy vzhledem k tak pozoruhodné a mimořádné události.
+
+</section>

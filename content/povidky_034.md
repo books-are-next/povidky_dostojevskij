@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 9
 
 Sedmnáctého listopadu obdržel Ivan Petrovič městskou poštou dva dopisy na svoje jméno, rozpečetil první a vytáhl nedbale, ve spěchu napsané psaníčko rukou jeho ženy, adresované Jevgeniji Nikolajeviči a datované 4. srpna. Nic jiného v obálce nebylo. Ivan Petrovič četl:
@@ -17,3 +19,5 @@ Druhý dopis zněl takto:
 Ivane Petroviči! Zítra dostanete nové galoše: nejsem zvyklý tahat peníze z cizích kapes, ani paběrkovat všelijaké zbytky.
 
 Jevgenij Nikolajevič v těchto dnech odjíždí do Simbirsku, aby vyřídil záležitosti svého dědečka, a prosil mě, abych se poptal po spolucestujícím: není libo se připojit?
+
+</section>

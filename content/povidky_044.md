@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 Jsem romanopisec a napsal jsem, jak se zdá, vlastnoručně jeden „příběh“. Proč říkám „jak se zdá“ – vždyť vím, že jsem ho napsal, ale stále mám pocit, že se kdesi kdysi skutečně stal, a právě v předvečer Vánoc v jakémsi obrovském městě a za krutého mrazu.
 
 Zdá se mi, že v jednom sklepě spal malý, asi šestiletý chlapec – a možná že mu ještě nebylo ani šest let. Ten se ráno probudil ve vlhkém studeném sklepě. Měl na sobě jakýsi vetchý župánek a celý se třásl. Jeho dech se měnil v bílou páru a chlapec seděl v koutě na truhle, z nudy vypouštěl z pusy bílou páru a tím se bavil. Jenomže měl hrozný hlad. Od rána několikrát zamířil ke kavalci, kde na podložce tenké jako palačinka a na jakémsi ranci podloženém pod hlavou spala jeho nemocná matka. Jak se tady ocitla? Nejspíš přijela se svým chlapcem z cizího města a náhle se rozstonala. Majitelku zdejších sklepních koutů sebrala už před dvěma dny policie, nájemníci se rozutekli, byl svátek a zbylý povaleč už celých čtyřiadvacet hodin tady ležel zpitý do němoty, aniž se dočkal svátku. V jiném koutě místnosti sténala revmatickými bolestmi sužovaná osmdesátiletá stařenka, která kdysi kdesi sloužila jako chůva a teď osaměle umírala, vzdychala, prskala a vrčela na chlapce, takže ten už se bál přiblížit k jejímu koutu. Něco k pití sehnal někde v síni, ale nikde nenašel jedinou kůrku a už podesáté se pokoušel vzbudit matku. Ve tmě mu bylo úzko: už dávno se zešeřilo a světla se nerozsvěcovala. Ohmatal matčin obličej a podivil se, že se nemocná nehýbe a je studená jako led. Je tady velká zima, pomyslel si, chvilku postál u matky, ruku položenou na jejím rameni, pak si dýchl na svoje prstíky, aby je zahřál, a nakonec nahmátl na kavalci svou čepici a po špičkách, po paměti vyšel ze sklepa. Byl by odešel už dřív, ale bál se velkého psa, který nahoře na schodech celý den vyl u sousedových dveří. Jenomže pes už tu nebyl, a tak chlapec vyšel na ulici.
@@ -25,3 +27,5 @@ Dřepl si a schoulil se, ale strachem nemohl popadnout dech. Náhle zcela neče
 Ráno našli domovníci za hromadou dříví maličké tělo zmrzlého chlapce, který sem zaběhl, a našli i jeho matku. Ta zemřela ještě dřív a oba se setkali u Pánaboha v nebi.
 
 Proč jsem napsal ten příběh, nevhodný pro rozumný deník, a navíc deník spisovatele? A přitom jsem sliboval především takové příběhy, které se opravdu udály! Jde o to, že jsem cítil, že tohle všecko se mohlo doopravdy stát – a vidím to před sebou – totiž to, co se odehrálo ve sklepě, za hromadou dříví i u Kristova vánočního stromu – jenom nevím, jak vám mám říci, zda se to mohlo stát, nebo ne? Ale proto jsem spisovatel, abych si vymýšlel.
+
+</section>

@@ -4,9 +4,7 @@ subtitle: ''
 contentType: prose
 ---
 
-  
-
-  
+<section>
 
 Nedávno jsem viděl svatbu… ale ne! Raději vám budu vyprávět o vánočním stromu. Byla to pěkná svatba, moc se mi líbila, ale ten druhý příběh je lepší. Nevím, jak se to stalo, ale při pohledu na tu svatbu jsem si ten příběh oživil. To bylo tak. Právě před pěti lety v předvečer Nového roku jsem byl pozván na dětský ples. Člověk, který mě pozval, byl známý podnikatel, který měl styky, známosti a vyznal se v intrikách, takže jsem mohl předpokládat, že dětský ples je záminka pro rodiče, aby se sešli se známými a jakoby náhodou, nečekaným a nevinným způsobem si pohovořili o některých zajímavých námětech. Byl jsem osoba nezúčastněná, neměl jsem žádné náměty, a proto jen strávil ten večer poměrně nezávisle. Byl tam ještě jeden pán, který se nemohl honosit ani jménem, ani rodem, ale který jako já se ocitl uprostřed rodinného štěstí… Toho jsem si všiml nejdřív ze všech. Byl vysoký, hubený, vážný a dobře oblečený. Ale bylo zřejmé, že mu jsou radosti i rodinné štěstí lhostejné; kdykoliv se vzdálil kamsi do kouta, přestal se usmívat a nachmuřil svoje husté černé obočí. Na plese, s výjimkou hostitele, neměl jediného známého. Bylo očividné, že se příšerně nudí, ale přesto se statečně držel a až do konce hrál roli šťastného člověka, který se dobře baví. Později jsem se dozvěděl, že pochází z venkova a do hlavního města přijel vyřídit jakousi krkolomnou neodkladnou záležitost. Přivezl našemu hostiteli doporučující dopis, který hostitel nepřijal con amore, ale pozval jeho doručitele ze zdvořilosti na dnešní dětský ples. Karty se zde nehrály, doutníky mu nenabízeli a nikdo se s ním nepouštěl do hovoru, protože pravděpodobně už z dálky hosté poznali ptáka po peří, a tak dotyčný chtě nechtě, aby nějak zaměstnal svoje ruce, si po celý večer hladil licousy. A opravdu, ty byly velkolepé. Jenomže je hladil tak horlivě, že při pohledu na něho byste si mohli pomyslet, že nejprve byly stvořeny licousy, a teprve potom pán, předurčený k tomu, aby je hladil.
 
@@ -87,3 +85,5 @@ Nedávno jsem procházel kolem n-ského chrámu a překvapil mě shluk a řada
 Říkalo se, že jí sotva minulo šestnáct. Když jsem se pozorně zahleděl na ženicha, poznal jsem Juliana Mastakoviče, kterého jsem neviděl přesně pět let. Zadíval jsem se na ni… Můj Bože!… Prodíral jsem se co nejrychleji davem k východu. V davu si sdělovali, že nevěsta je bohatá, má půlmiliónové věno a navíc výbavu…
 
 Výpočet byl správný, pomyslel jsem si, když jsem se prodral na ulici…
+
+</section>

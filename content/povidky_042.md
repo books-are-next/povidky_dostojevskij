@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 Tentokrát publikuji Zápisky pana X. To nejsem já, ale někdo úplně jiný. Soudím, že nepotřebují žádný další úvod.
 
 Zápisky pana X.
@@ -375,3 +377,5 @@ Navštívím i jiná oddělení a všude našpicuju uši. Tak tak, je zapotře
 Ale k nim se ještě vrátím. Slíbili, že budou vyprávět svoje životní příběhy a všelijaké anekdoty. Fuj! Ale vrátím se, určitě se tam vrátím: je to věc cti!
 
 Odnesu to do Občana – tam taky uveřejnili portrét jednoho redaktora. Třeba to otisknou.
+
+</section>

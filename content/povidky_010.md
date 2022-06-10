@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 KAPITOLA PRVNÍ
 
 1\. Kdo jsem byl já a kdo byla ona
@@ -175,3 +177,5 @@ Znovu se mě můžete ptát, proč jsem ji neuchránil před zločinem? Později
 Vědomí ve mně vřelo, vteřiny ubíhaly, vládlo mrtvé ticho a ona nade mnou pořád ještě stála. Znenadání ve mně ožila naděje, já sebou škubl a spěšně jsem otevřel oči. V pokoji nikdo nebyl. Vstal jsem: zvítězil jsem a ona byla navždycky poražena!
 
 Zamířil jsem k snídani. Podávala se v první místnosti a ona vždycky nalévala čaj. Usedl jsem mlčky ke stolu a vzal jsem si od ní sklenici čaje. Teprve za několik minut jsem na ni pohlédl. Byla strašlivě bledá, ještě víc než včera, a dívala se na mě. Sotva ucítila můj pohled, chabě se pousmála bledými rty a v očích jí uvízla nesmělá otázka, jako by stále ještě pochybovala a ptala se sama sebe: Ví nebo neví, viděl všecko nebo neviděl? Lhostejně jsem odvrátil pohled. Po snídani jsem zamkl podnik, vypravil se na trh a koupil jsem železnou postel a zástěny. Po návratu domů jsem nařídil, aby postel dali do první místnosti a oddělili ji zástěnami. Ta postel byla určena jí, ale nezmínil jsem se o tom ani slovem. Beztak z toho pochopila, že jsem všecko viděl a všecko vím a že o tom nemůže být pochyb. Na noc jsem nechal revolver na stole jako obvykle. Večer mlčky ulehla do svého nového lože: manželství bylo „rozloučeno“, byla poražena, ale nebylo jí odpuštěno. V noci začala blouznit a ráno dostala horečku. Proležela šest neděl.
+
+</section>

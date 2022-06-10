@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 Všechna ta professions de foi[^1] jsou podle mého nudné čtení, a proto budu vyprávět jednu anekdotu, vlastně to ani není anekdota, pouze jedna dávná vzpomínka, kterou mám chuť vyprávět právě teď a tady, na závěr našeho traktátu o lidu. Tenkrát mi bylo všehovšudy devět let… ale ne, raději začnu rokem, kdy mi bylo devětadvacet let.
 
 Nastal druhý den radostného svátku. Vzduch byl teplý, obloha modrá, slunce stálo vysoko na obloze, hřálo, oslňovalo, ale v mé duši vládly chmury. Toulal jsem se za ubikacemi, díval jsem se a sčítal jsem laťky pevného vězeňského plotu, ačkoliv jsem neměl sebemenší chuť je sčítat, dělal jsem to jenom ze zvyku. Už druhý den ve věznici „probíhal svátek“: trestance nevyváděli na práci, byla tam spousta opilců, nadávky jen pršely, a co chvíli ve všech koutech vypukly hádky. Zpívaly se neslušné, oplzlé písně, pod kavalci se houfovali karbaníci, leželo tu několik polomrtvých trestanců, zmlácených za obzvláštní výtržnosti kamarádským soudem a přikrytých venkovskými kožichy až do té doby, než se vzpamatují; několikrát už se objevily obnažené nože – to všechno v těch dvou svátečních dnech se mě bolestně dotýkalo. Nikdy jsem bez znechucení nesnášel opilecké lidové veselice a zejména ne na zdejším místě. V těch dnech dokonce ani správa věznice nenahlížela do ubikací, neprováděla „šťáry“, nehledala alkohol, protože si uvědomovala, že jednou za rok se musí povolit uzda dokonce i těmto zavrženým, jinak by to dopadlo hůř. Nakonec mě popadl vztek. Potkal jsem Poláka M-ckého, jednoho z politických vězňů; zasmušile na mě pohlédl, oči mu zajiskřily a rty se rozechvěly: „Je hais ces brigands!“[^2] procedil mezi zuby v okamžiku, kdy mě míjel. Vrátil jsem se do ubikace bez ohledu na to, že jsem před čtvrthodinou odtud vyběhl jako šílenec právě ve chvíli, kdy šest zdatných chlapíků svorně zaútočilo na opilého Tatara Gazina a bili ho, aby ho uklidnili; bušili do něho hlava nehlava; takhle mohli utlouct i velblouda, ale věděli, že toho Herkula by stěží umlátili, a proto nebrali žádné ohledy.
@@ -55,3 +57,5 @@ Toho večera jsem potkal M-ckého. Nešťastník! Ten nemohl mít vzpomínky na 
 [^1]: Veřejná vyznání víry.
 
 [^2]: „Nenávidím tyhle loupežníky!“
+
+</section>

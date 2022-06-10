@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 1
 
 Jsem směšný člověk. Teď o mně říkají, že jsem blázen. Bylo by to povýšení, kdybych pro ně nezůstal stejně směšný jako dřív. Ale dnes už se nezlobím, všichni jsou mi milí, a když se mi smějí, dokonce jsou mi ještě milejší. Smál bych se s nimi, ne snad sobě, ale protože je mám rád, jen kdyby mi nebylo při pohledu na ně tak smutno. Smutno proto, že neznají pravdu, a já ji znám. Ach, jak těžko je člověku, který zná pravdu! Jenomže oni to nepochopí. Ne, nepochopí.
@@ -21,3 +23,5 @@ Neplakala, ale přerývaně vykřikovala jakási slova, která neuměla jaksepat
 Vystoupal jsem do svého čtvrtého patra. Bydlím v podnájmu a každý podnájemník má svůj pokoj. Ten můj je skromný a malý, s půlkruhovým půdním oknem. Mám tu pohovku potaženou voskovaným plátnem, stůl plný knih, dvě židle a starodávné, pohodlné, zato volteriánské křeslo. Usedl jsem, zapálil jsem svíčku a zamyslel jsem se. Ve vedlejším pokojíku za přepážkou pokračoval kravál. Trvalo to už tři dny. Bydlel tam kapitán ve výslužbě a měl hosty – asi šest větroplachů, kteří pili vodku a hráli oko se stařičkými kartami. Minulou noc tam došlo ke rvačce a vím, že dva z nich si vjeli do vlasů. Bytná si chtěla stěžovat, ale hrozně se bojí kapitána. Z ostatních podnájemníků u nás bydlí všehovšudy jedna drobná hubená dáma, vdova po důstojníkovi, se třemi malými dětmi, které se už v našich pokojích rozstonaly. Ona i děti se k smrti bojí kapitána, celou noc se třesou strachy, křižují se a nejmenší chlapec ze strachu dostal jakýsi záchvat. Náš kapitán, jak dobře vím, někdy zastavuje chodce na Něvském a žebrá. Do služby ho nepřijímají, ale kupodivu (proto o něm vyprávím) po celý měsíc, co tu bydlí, jsem s ním neměl sebemenší rozepři. Hned ze začátku jsem se vyhnul jakékoliv bližší známosti s ním a on poznal, že je se mnou nuda. Aťsi jeho hosté za přepážkou sebevíc křičí a ať je jich kolik chce, mně je to jedno. Celou noc prosedím a vůbec je neslyším – jednoduše je nevnímám. Noc co noc jsem totiž vzhůru až do svítání a to se opakuje už celý rok. Celou noc sedím v křesle u stolu a lelkuju. Knihy čtu výhradně ve dne. Sedím a na nic nemyslím, myšlenky se mi převalují v hlavě a já je pouštím na svobodu. Svíčka za noc celá shoří.
 
 Sedl jsem si tiše ke stolu, vytáhl jsem revolver a položil ho před sebe. Vzpomínám si, že jsem se v tu chvíli zeptal sám sebe: „Už?“ a zcela přesvědčivě jsem si odpověděl: „Už.“ Totiž že se zastřelím. Věděl jsem, že té noci k tomu zřejmě dojde, ale jak dlouho ještě předtím prodlím u stolu – to jsem nevěděl. Určitě bych se byl zastřelil, nebýt té holčičky.
+
+</section>

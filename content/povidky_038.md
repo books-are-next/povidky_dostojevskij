@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 2
 
 Vážený Timofej Semjonyč mě uvítal nějak uspěchaně a snad poněkud rozpačitě. Odvedl mě do své těsné pracovny a pečlivě za sebou zavřel dveře: „Aby nás děti nerušily,“ pronesl se zřejmým neklidem. Pak mě posadil na židli u psacího stolu, sám usedl do křesla, přehrnul si šosy starého prošívaného županu a zatvářil se pro každý případ jaksi oficiálně, dokonce přísně, přestože nebyl ani můj nadřízený, ani nadřízený Ivana Matvejiče a dosud byl považován za našeho kolegu a dokonce dobrého známého.
@@ -157,3 +159,5 @@ Stařík zjevně zjihl.
 „Hm, tak tedy hurá k vězni!… Ach, ta lehkomyslnost!“
 
 Rozloučil jsem se se staříkem. Hlavou se mi honily všelijaké myšlenky. Timofej Semjonyč je dobrák a poctivec od kosti. A přece, když jsem od něho odcházel, zaradoval jsem se, že už měl padesáté jubileum služby a je u nás vzácnost. Pochopitelně jsem se okamžitě rozběhl do Pasáže, abych všechno pověděl svému ubohému příteli. A taky mě poháněla zvědavost, jak se zařídil a jak se dá žít v krokodýlovi. Dá se v něm vůbec existovat? Chvílemi mi připadalo, že to všecko je jakýsi obludný sen tím spíš, že šlo o obludu…
+
+</section>

@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 2
 
 Příští večer se uvádělo jakési představení v Italské opeře. Ivan Andrejevič vtrhl do hlediště jako bomba. Ještě nikdy u něj nikdo nepozoroval takové furore, takovou vášeň k hudbě. Přinejmenším se dobře vědělo, že si v Italské opeře hodinku nebo dvě s chutí schrupne, dokonce několikrát prohlašoval, že je to příjemné a sladké a „považte, primadona“, říkával přátelům, „mňouká jako bílá kočička ukolébavku“. Jenomže tohle prohlašoval už dávno, v loňské sezóně. Ale teď – ouvej! Nemůže v noci spát ani doma. Přesto vpadl do hlediště, naplněného k prasknutí, jako bomba. Dokonce uvaděč na něho nějak podezřívavě pohlédl a pak zašilhal na jeho postranní kapsu – nebyl si jistý, zda z ní nevykukuje rukojeť kinžálu, ukrytého tam pro každý případ. Je zapotřebí poznamenat, že v té době se publikum dělilo na dva sílící tábory a každý stál za svou primadonou. Jedni se jmenovali –zisti a druzí –nisti. Oba tábory do té míry milovaly hudbu, že se uvaděči nakonec právem začali obávat jakéhosi výrazného projevu náklonnosti ke všemu krásnému a vznešenému, co se spojovalo v obou primadonách. Proto při pohledu na mladické hnutí šedovlasého starce, i když, připusťme, ne zcela šedovlasého, asi tak padesátníka, plešouna, který působil celkem solidním dojmem, uvaděč si bezděčně vzpomněl na Hamleta:
@@ -624,3 +626,5 @@ Ale náhle upadl do takových rozpaků, že mu nezbývalo, než aby sáhl do kap
 „Dušinko!“ odpověděl Ivan Andrejevič, víc mrtvý než živý, strnulejší než Amiška. „Dušinko…“
 
 Teď našeho hrdinu opustíme až do příště, protože tady začíná zcela nové, zvláštní dobrodružství. Jednou vám, panstvo, všecko dopovím o útrapách a pronásledování osudu. Ale uznejte, že žárlivost je neodpustitelná vášeň, ba co víc – hotové neštěstí!
+
+</section>
