@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "dostojevskij-povidky-db33019",
-  "revision": "db33019",
+  "identifier": "dostojevskij-povidky-63587b6",
+  "revision": "63587b6",
   "readingOrder": [
     "promo.html",
     "povidky_005.html",
@@ -18,8 +18,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:54:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883662825
+    "date": "Sat Jun 11 2022 12:09:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949367656
   },
   "documents": [
     {

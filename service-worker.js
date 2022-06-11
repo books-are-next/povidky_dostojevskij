@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-db33019';
+const CACHE = 'cache-63587b6';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./povidky_005.html","./povidky_006.html","./povidky_007.html","./povidky_009.html","./povidky_010.html","./povidky_011.html","./povidky_013.html","./povidky_014.html","./povidky_016.html","./povidky_018.html","./povidky_020.html","./povidky_022.html","./povidky_024.html","./povidky_026.html","./povidky_027.html","./povidky_028.html","./povidky_029.html","./povidky_030.html","./povidky_031.html","./povidky_032.html","./povidky_033.html","./povidky_037.html","./povidky_038.html","./povidky_039.html","./povidky_040.html","./povidky_042.html","./povidky_034.html","./povidky_044.html","./povidky_046.html","./povidky_048.html","./povidky_049.html","./povidky_050.html","./povidky_051.html","./povidky_052.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_povidky_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./povidky_005.html","./povidky_006.html","./povidky_007.html","./povidky_009.html","./povidky_010.html","./povidky_011.html","./povidky_013.html","./povidky_014.html","./povidky_016.html","./povidky_018.html","./povidky_020.html","./povidky_022.html","./povidky_024.html","./povidky_026.html","./povidky_027.html","./povidky_028.html","./povidky_029.html","./povidky_030.html","./povidky_031.html","./povidky_032.html","./povidky_033.html","./povidky_034.html","./povidky_037.html","./povidky_038.html","./povidky_039.html","./povidky_040.html","./povidky_042.html","./povidky_044.html","./povidky_046.html","./povidky_048.html","./povidky_049.html","./povidky_050.html","./povidky_051.html","./povidky_052.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_povidky_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
