@@ -19,13 +19,16 @@ readingOrder:
   - povidky_007.html
   - colophon.html
 tocBase:
-  - link: povidky_005.html
-    title: BYTNÁ
+  - id: section-1
     children:
-      - link: povidky_006.html
-        title: ČÁST PRVNÍ
-      - link: povidky_007.html
-        title: ČÁST DRUHÁ
+      - link: povidky_005.html
+        title: BYTNÁ
+        children:
+          - link: povidky_006.html
+            title: ČÁST PRVNÍ
+          - link: povidky_007.html
+            title: ČÁST DRUHÁ
+    isSection: true
 static:
   - style
   - scripts
