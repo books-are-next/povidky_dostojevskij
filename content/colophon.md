@@ -2,7 +2,6 @@
 title: Tiráž
 ---
 
-<section>  
 Fjodor Michajlovič Dostojevskij    
 Povídky  
 Edice Klasická světová próza  
@@ -10,12 +9,9 @@ Překlad Alena Morávková
 Redakce Jaroslava Bednářová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
 
 ***
-
-<section>
 
 Znění tohoto textu vychází z díla [Dvojník](https://search.mlp.cz/cz/titul/dvojnik/3989150/) tak, jak bylo vydáno nakladatelstvím Rybka Publishers v Praze v roce 2013. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -29,5 +25,3 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 
 ![image002.jpg](./resources/image002_fmt.jpeg)
-
-</section>
