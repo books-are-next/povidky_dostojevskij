@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "dostojevskij-povidky-6c2fc0e",
-  "revision": "6c2fc0e",
+  "identifier": "dostojevskij-povidky-d36ea5b",
+  "revision": "d36ea5b",
   "readingOrder": [
     "promo.html",
     "povidky_005.html",
@@ -18,8 +18,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:57:16 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157436921
+    "date": "Wed Jun 15 2022 05:55:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272531488
   },
   "documents": [
     {
@@ -97,9 +97,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 117,
-      "chars": 789,
-      "ideas": 15,
+      "words": 142,
+      "chars": 999,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "povidky_007.html",
@@ -117,9 +117,9 @@
   ],
   "totals": {
     "all": {
-      "words": 109461,
-      "chars": 654341,
-      "ideas": 2578
+      "words": 109486,
+      "chars": 654551,
+      "ideas": 2580
     },
     "chapters": {
       "words": 22219,
