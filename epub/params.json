@@ -9,7 +9,8 @@
       "modified": "2021-07-02T10:08:42.967Z",
       "isbn": "978-80-7602-468-7; 978-80-7602-467-0; 978-80-7602-469-4",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven1-cast",
@@ -999,4 +1000,3 @@
     "generatedAt": 1628109707257
   }
 }
-
