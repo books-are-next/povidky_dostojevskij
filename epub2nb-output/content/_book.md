@@ -12,6 +12,7 @@ meta:
   isbn: 978-80-7602-468-7; 978-80-7602-467-0; 978-80-7602-469-4
   publisherShort: mkp
   edition: beletrie
+  contentType: prose
 readingOrder:
   - promo.html
   - povidky_005.html
