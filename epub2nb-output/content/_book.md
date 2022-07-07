@@ -18,7 +18,7 @@ readingOrder:
   - povidky_005.html
   - povidky_006.html
   - povidky_007.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

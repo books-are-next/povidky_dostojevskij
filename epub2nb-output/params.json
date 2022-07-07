@@ -71,7 +71,7 @@
             "xhtml": "povidky_004.xhtml",
             "title": "",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -580,7 +580,7 @@
             "xhtml": "povidky_053.xhtml",
             "title": "",
             "id": 52,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": true,
             "children": []
@@ -1002,6 +1002,6 @@
       "user": "books-are-next",
       "repo": "povidky_dostojevskij"
     },
-    "generatedAt": 1655979453303
+    "generatedAt": 1657182368486
   }
 }
