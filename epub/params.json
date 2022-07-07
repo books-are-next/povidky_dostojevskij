@@ -68,7 +68,7 @@
         "xhtml": "povidky_004.xhtml",
         "title": "",
         "id": 3,
-        "role": "colophon",
+        "role": "about",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -577,7 +577,7 @@
         "xhtml": "povidky_053.xhtml",
         "title": "",
         "id": 52,
-        "role": "colophon",
+        "role": "about",
         "numberedChildren": false,
         "inToc": true,
         "children": []
